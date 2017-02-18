@@ -85,6 +85,7 @@ It can also benefit you to understand how *learning* happens.
 The following is a list of topics of interest, in alphabetical order.
 
 * [Goodhart's Law](#goodharts-law)
+* Handicap Principle
 * [Principal-Agent Problem](#principal-agent-problem)
 
 
@@ -92,6 +93,13 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [Tiny Nails](http://biologicallydetermined.blogspot.com/2013/06/tiny-nails.html),
   by (pseudonym) "Biologically Determined"
+
+
+## Handicap Principle
+
+* [The Handicap Principle: A Missing Piece of Darwin's Puzzle](http://www.goodreads.com/book/show/885547.The_Handicap_Principle),
+  by  Amotz Zahavi, Avishag Zahavi
+
 
 ## Principal-Agent Problem
 
