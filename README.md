@@ -12,7 +12,7 @@ Some technical people even start off with hybrid roles, that combine the technic
 management or leadership; even if it is implicit and "unofficial".
 
 And while management and leadership are not the same things (desipte many managers inaccurately
-asserting that they are) engineering and management & leadership are different skills.
+asserting that they are) engineering & science and management & leadership are different skills.
 
 But those are skills that can be learnt.
 
