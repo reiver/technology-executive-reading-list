@@ -62,3 +62,24 @@ staff data scientist,
 lead software engineer,
 lead data scientst,
 etc.
+
+
+## Topics
+
+There are many topics that are of interest to those who are engaging in management or leadership.
+
+It can benefit you to understand *humans*.
+Both because you will work with them;
+and because they will be your users or customers.
+
+In some ways this (understanding *humans*) is a hard thing to do for many.
+And not necessarily because the topic is hard.
+
+But more because you have to try to make yourself see the world as it actually is,
+rather than how you might prefer it be; regardless of how that makes you feel.
+
+
+It can also benefit you to understand how *learning* happens.
+
+
+The following is a list of topics of interest, in alphabetical order.
