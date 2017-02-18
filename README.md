@@ -88,7 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
-* Systems Thinking
+* [Systems Thinking](#systems-thinking)
 
 
 ## Adaptation Executors
