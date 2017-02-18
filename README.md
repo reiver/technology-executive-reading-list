@@ -83,3 +83,11 @@ It can also benefit you to understand how *learning* happens.
 
 
 The following is a list of topics of interest, in alphabetical order.
+
+* Principal-Agent Problem
+
+
+## Principal-Agent Problem
+
+* [The Criminal Justice System Creates Incentives for False Convictions](http://dx.doi.org/10.1080/0731129X.2013.817070),
+  by Roger Koppl, Meghan Sacks
