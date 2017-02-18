@@ -84,9 +84,16 @@ It can also benefit you to understand how *learning* happens.
 
 The following is a list of topics of interest, in alphabetical order.
 
+* Adaptation Executors
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
+
+
+## Adaptation Executors
+
+* [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf),
+  by John Tooby, Leda Cosmides
 
 
 ## Goodhart's Law
