@@ -88,7 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
-* Social Learning
+* [Social Learning](#social-learning)
 * [Systems Thinking](#systems-thinking)
 
 
