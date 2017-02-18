@@ -85,7 +85,7 @@ It can also benefit you to understand how *learning* happens.
 The following is a list of topics of interest, in alphabetical order.
 
 * [Adaptation Executors](#adaptation-executors)
-* Coalitional Behavior
+* [Coalitional Behavior](#coalitional-behavior)
 * [Culture](#culture)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
