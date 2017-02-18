@@ -85,6 +85,7 @@ It can also benefit you to understand how *learning* happens.
 The following is a list of topics of interest, in alphabetical order.
 
 * [Adaptation Executors](#adaptation-executors)
+* Culture
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
@@ -96,6 +97,13 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf),
   by John Tooby, Leda Cosmides
+
+
+## Culture
+
+* See
+  [Adaptation Executors](#adaptation-executors),
+  [Social Learning](#social-learning).
 
 
 ## Goodhart's Law
