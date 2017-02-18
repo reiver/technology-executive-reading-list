@@ -84,7 +84,7 @@ It can also benefit you to understand how *learning* happens.
 
 The following is a list of topics of interest, in alphabetical order.
 
-* Principal-Agent Problem
+* [Principal-Agent Problem](#principal-agent-problem)
 
 
 ## Principal-Agent Problem
