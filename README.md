@@ -88,6 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
+* Social Learning
 * [Systems Thinking](#systems-thinking)
 
 
@@ -113,6 +114,12 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [The Criminal Justice System Creates Incentives for False Convictions](http://dx.doi.org/10.1080/0731129X.2013.817070),
   by Roger Koppl, Meghan Sacks
+
+
+## Social Learning
+
+* [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](http://www.goodreads.com/book/show/25761655-the-secret-of-our-success),
+  by Joseph Henrich
 
 
 ## Systems Thinking
