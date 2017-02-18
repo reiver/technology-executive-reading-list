@@ -88,6 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
+* Systems Thinking
 
 
 ## Adaptation Executors
@@ -112,3 +113,9 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [The Criminal Justice System Creates Incentives for False Convictions](http://dx.doi.org/10.1080/0731129X.2013.817070),
   by Roger Koppl, Meghan Sacks
+
+
+## Systems Thinking
+
+* [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU),
+  by Russell Lincoln Ackoff
