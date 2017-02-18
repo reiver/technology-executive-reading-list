@@ -85,6 +85,7 @@ It can also benefit you to understand how *learning* happens.
 The following is a list of topics of interest, in alphabetical order.
 
 * [Adaptation Executors](#adaptation-executors)
+* Coalitional Behavior
 * [Culture](#culture)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
@@ -97,6 +98,15 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf),
   by John Tooby, Leda Cosmides
+
+
+## Coalitional Behavior
+
+* [Hierarchy in the Forest: The Evolution of Egalitarian Behavior ](http://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest)
+  by Christopher Boehm
+
+* [Footnotes on Things I’ve been Reading: Christopher Boehm, Hierarchy in the Forest](http://abandonedfootnotes.blogspot.com/2010/07/footnotes-on-things-ive-been-reading_21.html)
+  by Xavier Marquez
 
 
 ## Culture
