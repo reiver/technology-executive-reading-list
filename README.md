@@ -84,8 +84,14 @@ It can also benefit you to understand how *learning* happens.
 
 The following is a list of topics of interest, in alphabetical order.
 
+* Goodhart's Law
 * [Principal-Agent Problem](#principal-agent-problem)
 
+
+## Goodhart's Law
+
+* [Tiny Nails](http://biologicallydetermined.blogspot.com/2013/06/tiny-nails.html),
+  by (pseudonym) "Biologically Determined"
 
 ## Principal-Agent Problem
 
