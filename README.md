@@ -85,7 +85,7 @@ It can also benefit you to understand how *learning* happens.
 The following is a list of topics of interest, in alphabetical order.
 
 * [Goodhart's Law](#goodharts-law)
-* Handicap Principle
+* [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
 
 
