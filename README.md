@@ -86,6 +86,7 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [Adaptation Executors](#adaptation-executors)
 * [Coalitional Behavior](#coalitional-behavior)
+* [Conway's Law](#conways-law)
 * [Culture](#culture)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
@@ -107,6 +108,12 @@ The following is a list of topics of interest, in alphabetical order.
 
 * [Footnotes on Things I’ve been Reading: Christopher Boehm, Hierarchy in the Forest](http://abandonedfootnotes.blogspot.com/2010/07/footnotes-on-things-ive-been-reading_21.html)
   by Xavier Marquez
+
+
+## Conway's Law
+
+* [How Do Committees Invent?](http://www.melconway.com/Home/Committees_Paper.html)
+  by Melvin Edward Conway
 
 
 ## Culture
