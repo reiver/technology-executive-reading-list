@@ -91,6 +91,7 @@ But something being listed here means I find at least part of it relevant.)
 * [Coalitional Behavior](#coalitional-behavior)
 * [Conway's Law](#conways-law)
 * [Culture](#culture)
+* [Forecasting](#forecasting)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
 * [Principal-Agent Problem](#principal-agent-problem)
@@ -133,6 +134,15 @@ But something being listed here means I find at least part of it relevant.)
 * See
   [Adaptation Executors](#adaptation-executors),
   [Social Learning](#social-learning).
+
+
+## Forecasting
+
+* [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't](http://www.goodreads.com/book/show/13588394-the-signal-and-the-noise)
+  by Nate Silver
+
+* [Superforecasting: The Art and Science of Prediction](http://www.goodreads.com/book/show/23995360-superforecasting)
+  by Philip E. Tetlock, Dan Gardner
 
 
 ## Goodhart's Law
