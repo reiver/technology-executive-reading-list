@@ -88,6 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 But something being listed here means I find at least part of it relevant.)
 
 * [Adaptation Executors](#adaptation-executors)
+* [Cardwell's Law](#cardwells-law)
 * [Coalitional Behavior](#coalitional-behavior)
 * [Conway's Law](#conways-law)
 * [Culture](#culture)
@@ -103,6 +104,12 @@ But something being listed here means I find at least part of it relevant.)
 
 * [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf),
   by John Tooby, Leda Cosmides
+
+
+** Cardwell's Law
+
+* [Cardwell's Law and the political economy of technological progress](http://www.sciencedirect.com/science/article/pii/0048733394010064)
+  by Joel Mokyr
 
 
 ## Coalitional Behavior
