@@ -109,6 +109,9 @@ The following is a list of topics of interest, in alphabetical order.
 * [Footnotes on Things I’ve been Reading: Christopher Boehm, Hierarchy in the Forest](http://abandonedfootnotes.blogspot.com/2010/07/footnotes-on-things-ive-been-reading_21.html)
   by Xavier Marquez
 
+* [Hot Shots and Cool Reception? An Expanded View of Social Consequences for High Performers](http://psycnet.apa.org/psycinfo/2017-06323-001/),
+  by Elizabeth M. Campbell, Hui Liao, Aichia Chuang, Jing Zhou, Yuntao Dong
+
 
 ## Conway's Law
 
