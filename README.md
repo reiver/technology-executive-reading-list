@@ -120,7 +120,7 @@ But something being listed here means I find at least part of it relevant.)
   by Elizabeth M. Campbell, Hui Liao, Aichia Chuang, Jing Zhou, Yuntao Dong
 
 * [Leadership in an Egalitarian Society](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258461/),
-  by Christopher von Rueden, Michael Gurven, Hillard Kaplan, Jonathan Stieglitz
+  by Christopher R. von Rueden, Michael Gurven, Hillard Kaplan, Jonathan Stieglitz
 
 
 ## Conway's Law
