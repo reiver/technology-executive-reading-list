@@ -106,7 +106,7 @@ But something being listed here means I find at least part of it relevant.)
   by John Tooby, Leda Cosmides
 
 
-** Cardwell's Law
+## Cardwell's Law
 
 * [Cardwell's Law and the political economy of technological progress](http://www.sciencedirect.com/science/article/pii/0048733394010064)
   by Joel Mokyr
