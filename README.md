@@ -84,6 +84,9 @@ It can also benefit you to understand how *learning* happens.
 
 The following is a list of topics of interest, in alphabetical order.
 
+(And note, I don't necessarily agree with everything claimed in every paper, book, article, or video listed here.
+But something being listed here means I find at least part of it relevant.)
+
 * [Adaptation Executors](#adaptation-executors)
 * [Coalitional Behavior](#coalitional-behavior)
 * [Conway's Law](#conways-law)
