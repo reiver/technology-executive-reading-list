@@ -136,6 +136,9 @@ But something being listed here means I find at least part of it relevant.)
 * [Why Complexity is Different](https://mystudentvoices.com/why-complexity-is-different-ecd498e0eccb),
   by Yaneer Bar-Yam
 
+* [When Systems Engineering Fails --- Toward Complex Systems Engineering](http://necsi.edu/research/engineering/engineerfail.html),
+  by Yaneer Bar-Yam
+
 
 ## Conway's Law
 
