@@ -191,6 +191,10 @@ But something being listed here means I find at least part of it relevant.)
 * [Government Guidelines and Unintended Consequences](http://econlife.com/2012/04/government-guidelines-and-unintended-consequences/)
   by Elaine Schwartz
 
+* See also:
+  [Cobra Effect](#cobra-effect),
+  [Campbell's Law](#campbells-law).
+
 
 ## Handicap Principle
 
