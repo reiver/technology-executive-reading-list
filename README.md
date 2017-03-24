@@ -88,6 +88,7 @@ The following is a list of topics of interest, in alphabetical order.
 But something being listed here means I find at least part of it relevant.)
 
 * [Adaptation Executors](#adaptation-executors)
+* [Campbell's Law](campbells-law)
 * [Cardwell's Law](#cardwells-law)
 * [Coalitional Behavior](#coalitional-behavior)
 * [Complex Systems](#complex-systems)
@@ -105,6 +106,12 @@ But something being listed here means I find at least part of it relevant.)
 
 * [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf),
   by John Tooby, Leda Cosmides
+
+
+## Campbell's Law
+
+* [Assessing the impact of planned social change](https://dx.doi.org/10.1016%2F0149-7189%2879%2990048-X),
+  by Donald Thomas Campbell
 
 
 ## Cardwell's Law
