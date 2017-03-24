@@ -114,6 +114,10 @@ But something being listed here means I find at least part of it relevant.)
 * [Assessing the impact of planned social change](https://dx.doi.org/10.1016%2F0149-7189%2879%2990048-X),
   by Donald Thomas Campbell
 
+* See also:
+  [Cobra Effect](#cobra-effect),
+  [Goodhart's Law](#goodharts-law).
+
 
 ## Cardwell's Law
 
