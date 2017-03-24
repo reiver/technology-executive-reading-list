@@ -91,6 +91,7 @@ But something being listed here means I find at least part of it relevant.)
 * [Campbell's Law](#campbells-law)
 * [Cardwell's Law](#cardwells-law)
 * [Coalitional Behavior](#coalitional-behavior)
+* [Cobra Effect](#cobra-effect)
 * [Complex Systems](#complex-systems)
 * [Conway's Law](#conways-law)
 * [Culture](#culture)
@@ -119,6 +120,15 @@ But something being listed here means I find at least part of it relevant.)
 * [Cardwell's Law and the political economy of technological progress](http://www.sciencedirect.com/science/article/pii/0048733394010064)
   by Joel Mokyr
 
+
+## Cobra Effect
+
+* [The Cobra Effect](http://freakonomics.com/podcast/the-cobra-effect-a-new-freakonomics-radio-podcast/),
+  by Stephen J. Dubner
+
+* See also:
+  [Campbell's Law](#campbells-law),
+  [Goodhart's Law](#goodharts-law).
 
 ## Coalitional Behavior
 
