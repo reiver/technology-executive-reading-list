@@ -177,7 +177,7 @@ But something being listed here means I find at least part of it relevant.)
 
 ## Entrepreneurialism
 
-* [Psychology beats business training when it comes to entrepreneurship](https://www.economist.com/news/business/21729454-among-small-business-owners-togo-least-psychology-beats-business-training-when-it-comes),
+* [Psychology beats business training when it comes to entrepreneurship](https://www.economist.com/news/business/21729454-among-small-business-owners-togo-least-psychology-beats-business-training-when-it-comes)
 * [Teaching personal initiative beats traditional training in boosting small business in West Africa](http://science.sciencemag.org/content/357/6357/1287),
   by Francisco Campos,
      Michael Frese,
