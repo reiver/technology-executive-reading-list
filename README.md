@@ -95,6 +95,7 @@ But something being listed here means I find at least part of it relevant.)
 * [Complex Systems](#complex-systems)
 * [Conway's Law](#conways-law)
 * [Culture](#culture)
+* [Entrepreneurialism](#entrepreneurialism)
 * [Forecasting](#forecasting)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
@@ -172,6 +173,19 @@ But something being listed here means I find at least part of it relevant.)
 * See
   [Adaptation Executors](#adaptation-executors),
   [Social Learning](#social-learning).
+
+
+## Entrepreneurialism
+
+* [Psychology beats business training when it comes to entrepreneurship](https://www.economist.com/news/business/21729454-among-small-business-owners-togo-least-psychology-beats-business-training-when-it-comes),
+* [Teaching personal initiative beats traditional training in boosting small business in West Africa](http://science.sciencemag.org/content/357/6357/1287),
+  by Francisco Campos,
+     Michael Frese,
+     Markus Goldstein,
+     Leonardo Iacovone,
+     Hillary C. Johnson,
+     David McKenzie,
+     Mona Mensmann
 
 
 ## Forecasting
