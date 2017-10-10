@@ -196,6 +196,9 @@ But something being listed here means I find at least part of it relevant.)
 * [Superforecasting: The Art and Science of Prediction](http://www.goodreads.com/book/show/23995360-superforecasting)
   by Philip E. Tetlock, Dan Gardner
 
+* [Failure at the top: How power undermines collaborative performance](http://psycnet.apa.org/doi/10.1037/pspi0000045),
+  by John Angus D. Hildreth, Cameron Anderson,
+
 
 ## Goodhart's Law
 
