@@ -99,6 +99,7 @@ But something being listed here means I find at least part of it relevant.)
 * [Forecasting](#forecasting)
 * [Goodhart's Law](#goodharts-law)
 * [Handicap Principle](#handicap-principle)
+* [Peer Effects](#peer-effects)
 * [Principal-Agent Problem](#principal-agent-problem)
 * [Social Learning](#social-learning)
 * [Systems Thinking](#systems-thinking)
@@ -224,6 +225,12 @@ But something being listed here means I find at least part of it relevant.)
 
 * [The Handicap Principle: A Missing Piece of Darwin's Puzzle](http://www.goodreads.com/book/show/885547.The_Handicap_Principle),
   by  Amotz Zahavi, Avishag Zahavi
+
+
+## Peer Effects
+
+* [Peer Effects in Education: A Survey of the Theory and Evidence](https://doi.org/10.1016/B978-0-444-53707-2.00003-7),
+  by Dennis Epple, Richard E. Romano
 
 
 ## Principal-Agent Problem
