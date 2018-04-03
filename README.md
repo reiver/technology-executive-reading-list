@@ -194,11 +194,14 @@ But something being listed here means I find at least part of it relevant.)
 * [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't](http://www.goodreads.com/book/show/13588394-the-signal-and-the-noise)
   by Nate Silver
 
-* [Superforecasting: The Art and Science of Prediction](http://www.goodreads.com/book/show/23995360-superforecasting)
-  by Philip E. Tetlock, Dan Gardner
-
 * [Failure at the top: How power undermines collaborative performance](http://psycnet.apa.org/doi/10.1037/pspi0000045),
   by John Angus D. Hildreth, Cameron Anderson,
+
+* [Superforecasting: The Art and Science of Prediction](http://www.goodreads.com/book/show/23995360-superforecasting),
+  by Philip E. Tetlock, Dan Gardner
+
+* [Identifying and Cultivating Superforecasters as a Method of Improving Probabilistic Predictions](https://doi.org/10.1177%2F1745691615577794),
+  by Barbara Mellers, Eric Stone, Terry Murray, Angela Minster, Nick Rohrbaugh, Michael Bishop, Eva Chen, Joshua Baker, Yuan Hou, Michael Horowitz, Lyle Ungar, Philip Tetlock
 
 
 ## Goodhart's Law
