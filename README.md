@@ -249,3 +249,9 @@ But something being listed here means I find at least part of it relevant.)
 
 * [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU),
   by Russell Lincoln Ackoff
+
+-------------------------
+
+## Author
+
+This reading-list was created by [Charles Iliya Krempeaux](http://reiver.link)
